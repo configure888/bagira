@@ -50,20 +50,13 @@ const Navbar = () => {
           <div className="nav-ball"></div>
         </a>
         <a
-          href="/#location"
-          id="nav-location"
-          className="nav-link location max-w-full h-full inline-block"
-        >
-          <div className="josefin-400-13">location</div>
-
-          <div className="nav-ball"></div>
-        </a>
-        <a
           href="/#murals"
           id="nav-murals"
-          className="nav-link murals max-w-full h-full inline-block"
+          className="nav-link location max-w-full h-full inline-block"
         >
           <div className="josefin-400-13">murals</div>
+
+        
 
           <div className="nav-ball"></div>
         </a>
